@@ -33,3 +33,4 @@ https://nodejs.org/api/fs.html
 
 3 - Faça um endpoint para remover usuários
 
+4 - Faça um endpoint para criar um usuário
